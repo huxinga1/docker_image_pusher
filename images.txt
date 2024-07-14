@@ -1,2 +1,1 @@
-linuxserver/papermerge
-papermerge/papermerge
+papermerge/papermerge:3.1
